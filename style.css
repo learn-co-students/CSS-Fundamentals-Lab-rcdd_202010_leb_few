@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color: red;
+}
+header, figure{
+  text-align:center;
+}
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: gray;
+}
+figcaption{
+  text-align: center;
+  font-size: 10px;
+}
+#featured-property p {
+  width: 800px;
+  text-align: center;
+}
+#details div{
+  display: block;
+  float: left;
+  background-color: green;
+  text-align: center;
+  width: 25%;
+  
+}
